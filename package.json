@@ -1,0 +1,27 @@
+{
+    "name": "atom-underscore",
+    "main": "./lib/atom-underscore",
+    "version": "0.0.0",
+    "description": "Syntax highlighting for underscore",
+    "keywords": [
+        "underscore",
+        "template",
+        "templates",
+        "atom-underscore",
+        "syntax",
+        "highlighting",
+        "grammar",
+        "mustache"
+    ],
+    "styles": [
+        "atom-underscore"
+    ],
+    "repository": "https://github.com/dborstelmann/atom-underscore",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+        "underscore": "1.8.3"
+    }
+}
