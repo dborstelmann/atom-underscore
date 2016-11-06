@@ -1,0 +1,21 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Atom Underscore'
+      'submenu': [
+        {
+          'label': 'Validate Template'
+          'command': 'atom-underscore:check-template'
+        }
+      ]
+    ]
+  }
+]
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Validate Template'
+      'command': 'atom-underscore:check-template'
+    }
+  ]
