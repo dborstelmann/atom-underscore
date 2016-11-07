@@ -1,6 +1,3 @@
-atom-underscore package
-==================
-
 ### Underscore template syntax highlighter and syntax validator with custom delimiters for the Atom text editor.
 
 #### _Any contributions are greatly appreciated.  If you want me to add snippets, please make a [New Issue](https://github.com/dborstelmann/atom-underscore/issues/new) or email me. Thanks!_
