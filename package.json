@@ -1,33 +1,33 @@
 {
-    "name": "atom-underscore",
-    "main": "./lib/atom-underscore",
-    "version": "0.0.0",
-    "description": "Underscore template support in Atom",
-    "keywords": [
-        "underscore",
-        "template",
-        "templates",
-        "atom-underscore",
-        "syntax",
-        "highlighting",
-        "grammar",
-        "mustache"
-    ],
-    "styles": [
-        "atom-underscore"
-    ],
-    "homepage": "https://github.com/dborstelmann/atom-underscore",
-    "repository": "https://github.com/dborstelmann/atom-underscore",
-    "bugs": {
-        "url": "https://github.com/dborstelmann/atom-underscore/issues"
-    },
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {
-        "underscore": "1.8.3",
-        "loophole": "1.1.0"
-    },
-    "author": "Dan Borstelmann <dborstelmann@gmail.com> (https://github.com/dborstelmann)"
+  "name": "atom-underscore",
+  "main": "./lib/atom-underscore",
+  "version": "0.1.0",
+  "description": "Underscore template support in Atom",
+  "keywords": [
+    "underscore",
+    "template",
+    "templates",
+    "atom-underscore",
+    "syntax",
+    "highlighting",
+    "grammar",
+    "mustache"
+  ],
+  "styles": [
+    "atom-underscore"
+  ],
+  "homepage": "https://github.com/dborstelmann/atom-underscore",
+  "repository": "https://github.com/dborstelmann/atom-underscore",
+  "bugs": {
+    "url": "https://github.com/dborstelmann/atom-underscore/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "underscore": "1.8.3",
+    "loophole": "1.1.0"
+  },
+  "author": "Dan Borstelmann <dborstelmann@gmail.com> (https://github.com/dborstelmann)"
 }
