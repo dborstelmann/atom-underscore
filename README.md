@@ -1,5 +1,7 @@
 ### Underscore template syntax highlighter and syntax validator with custom delimiters for the [Atom](https://atom.io/) text editor.
 
+[https://atom.io/packages/atom-underscore](https://atom.io/packages/atom-underscore)
+
 ##### _Any contributions are greatly appreciated.  If you want me to add snippets, please make a [New Issue](https://github.com/dborstelmann/atom-underscore/issues/new) or email me. Thanks!_
 
 #### Installation
@@ -21,7 +23,6 @@ apm install atom-underscore
 
 ![Package](https://s26.postimg.org/rnvxirrk9/package.png)
 ![Settings](https://s26.postimg.org/iep5uwtah/settings.png)
-
 
 ## Author Note
 
