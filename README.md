@@ -3,7 +3,7 @@ atom-underscore package
 
 ### Underscore template syntax highlighter and syntax validator with custom delimiters for the Atom text editor.
 
-#### _Any contributions are greatly appreciated.  If you want me to add snippets, please make an [Issue](https://github.com/dborstelmann/atom-underscore/issues/new) or email me. Thanks!_
+#### _Any contributions are greatly appreciated.  If you want me to add snippets, please make a new [Issue](https://github.com/dborstelmann/atom-underscore/issues/new) or email me. Thanks!_
 
 ##### Please visit the package settings page or your config.cson file to change the delimiters that you use in your underscore templates.
 - Always use valid regular expressions that follow the style in [Underscore's Template Settings](http://underscorejs.org/#template).  _(I prefer Mustache style as you can see in the screenshot below.)_
