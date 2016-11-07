@@ -15,7 +15,7 @@ atom-underscore package
 - Shift-Cmd-U at any time
 
 ![Package](https://s26.postimg.org/rnvxirrk9/package.png)
-![Settings](https://s26.postimg.org/rnvxirrk9/package.png)
+![Settings](https://s26.postimg.org/iep5uwtah/settings.png)
 
 
 ## Author Note
