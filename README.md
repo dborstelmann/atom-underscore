@@ -10,8 +10,8 @@ atom-underscore package
 - Just add a style in your Atom stylesheet that overwrites `.tag.template.underscore.boundary`
 
 #### Validate your template at any time
-- Right-click in the editor pane and click on *Validate Underscore Template*
-- Find the *Atom Underscore* package in the *Packages* menu
+- Right-click in the editor pane and click on **Validate Underscore Template**
+- Find the **Atom Underscore** package in the **Packages** menu
 - Shift-Cmd-U at any time
 
 ![Package](https://s26.postimg.org/rnvxirrk9/package.png)
