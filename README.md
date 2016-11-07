@@ -2,6 +2,12 @@
 
 #### _Any contributions are greatly appreciated.  If you want me to add snippets, please make a [New Issue](https://github.com/dborstelmann/atom-underscore/issues/new) or email me. Thanks!_
 
+##### Installation
+
+```
+apm install atom-underscore
+```
+
 ##### Please visit the package settings page or your config.cson file to change the delimiters that you use in your underscore templates.
 - Always use valid regular expressions that follow the style in [Underscore's Template Settings](http://underscorejs.org/#template).  _(I prefer Mustache style as you can see in the screenshot below.)_
 
